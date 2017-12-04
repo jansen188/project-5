@@ -1,0 +1,14 @@
+﻿已經開始建置於 04/12/2017 22.29.39。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\jansen\Desktop\106360246_林欣榮\6.19\6.19\6.19\6.19.vcxproj"。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(356,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(357,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>ClCompile:
+         D:\jansen\CC programing\VC\bin\CL.exe /c /I"C:\Users\jansen\Desktop\106360246_林欣榮\6.19\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"..\..\temp\debug\\" /Fd"..\..\temp\debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\source\Main.c
+         Main.c
+     1>c:\users\jansen\desktop\106360246_林欣榮\6.19\source\main.c(50): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 d:\jansen\cc programing\vc\include\conio.h(131) : 請參閱 'getch' 的宣告
+     1>專案 "C:\Users\jansen\Desktop\106360246_林欣榮\6.19\6.19\6.19\6.19.vcxproj" (Build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:00.48
